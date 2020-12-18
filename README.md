@@ -1,9 +1,9 @@
 
-The PredRNN was designed for precipitation nowcasting.
+The [PredRNN](https://github.com/kami93/PredRNN) was [designed](https://dl.acm.org/doi/10.5555/3294771.3294855) for precipitation nowcasting.
 
-This is an adaptation/generalization to wind speed forecasting.
+This is an adaptation/generalization for wind speed forecasting.
 
-# brief explanation
+This repo accompanies our submitted paper entitled "On data selection for wind forecasting neural networks training".
 
 ## get_reanalysis.sh
 
